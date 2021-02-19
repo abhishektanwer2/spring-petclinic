@@ -4,7 +4,8 @@
 /build/www/**
 /src/test/javascript/coverage/
 /src/test/javascript/PhantomJS*/
-
+spring-petclinic-web/target
+spring-petclinic-data/target
 ######################
 # Node
 ######################
