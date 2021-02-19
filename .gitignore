@@ -35,7 +35,7 @@ local.properties
 .settings/
 .loadpath
 .factorypath
-/src/main/resources/rebel.xml
+/pet-clinic-web/src/resources/rebel.xml
 
 # External tool builders
 .externalToolBuilders/**
