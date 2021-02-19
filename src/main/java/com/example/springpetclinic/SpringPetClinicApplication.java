@@ -9,7 +9,7 @@ public class SpringPetClinicApplication {
     public static void main(String[] args) {
 
         SpringApplication.run(SpringPetClinicApplication.class, args);
-        System.out.println("Spring");
+        System.out.println("Spring pet");
     }
 
 }
